@@ -1,2 +1,2 @@
 # Scarlet
-An WIP UI library for Love2D
+A WIP UI library for Love2D
